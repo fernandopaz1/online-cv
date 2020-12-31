@@ -7,49 +7,52 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Fernando Paz
-    tagline: Web Developer
+    name: Alan Doe
+    tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: ferpaz9292@gmail.com
-    phone: 11 3801 0743
-    website: fernandopaz1.github.io #do not add http://
-    linkedin: ferpaz
-    github: fernandopaz1
+    email: hello@webjeda.com
+    phone: 012 345 6789
+    website: blog.webjeda.com #do not add http://
+    linkedin: alandoe
+    github: sharu725
     gitlab:
     bitbucket:
-    twitter: '@fernandopaz111'
+    twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
 
     languages:
-      - idiom: Inglés
-        level: Básico
+      - idiom: English
+        level: Native
 
-      - idiom: Español
-        level: Nativo
+      - idiom: French
+        level: Professional
+
+      - idiom: Spanish
+        level: Professional
         
     interests:
-      - item: Ajedrez
+      - item: Climbing
         link:
 
-      - item: Ciencia
+      - item: Snowboarding
         link:
 
-      - item: Literatura
+      - item: Cooking
         link:
 
 career-profile:
-    title: Perfil
+    title: Career Profile
     summary: |
-      Soy un estudiante de LIcenciatura en Sistema en la universidad 
-      General Sarmiento y de la Licenciatura en Ciencias físicas en la 
-      Universidad de Buenos Aires. Me guta combinar ambas disiplinas 
-      a la hora de programar, buscando soluciones optimas, tanto en 
-      ejecución como en buenas prácticas.
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
 
-      Actualmente estoy enfocado en el estudio de desarrollo web.
+      Second paragraph if required.
 
 education:
     - degree: MSc in Computer Science
