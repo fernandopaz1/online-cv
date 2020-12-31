@@ -48,7 +48,7 @@ career-profile:
 education:
     - degree: Licenciatura en Sistemas
       university: Universidad Nacional de General Sarmient0
-      time: 2018 - Actual
+      time: 2018 - Present
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -61,7 +61,7 @@ education:
 
     - degree: Licenciatura en Ciencias Físicas
       university: Universidad de Buenos Aires
-      time: 2012 - Actual
+      time: 2012 - Present
       details: |
         Estudiante de los ultimos años de la carrera de ciencias físicas, con particular interes en 
         simulaciones y física computacional. Esto me llevo a explorar en campos como machine learning, 
