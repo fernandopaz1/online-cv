@@ -7,42 +7,34 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Fernando Paz
+    tagline: Web Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: ferpaz9292@gmail.com
+    phone: 11 3801 0743
+    website: fernandopaz1.github.io #do not add http://
+    linkedin: ferpaz
+    github: fernandopaz1
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@fernandopaz111'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
 
     languages:
-      - idiom: English
-        level: Native
-
-      - idiom: French
-        level: Professional
+      - idiom: Ingles
+        level: Intermedio
 
       - idiom: Spanish
-        level: Professional
+        level: Nativo
         
     interests:
-      - item: Climbing
-        link:
+      - item: Ajedrez
+        link: lichess.org/@/fernandopaz1
 
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
-
+     
 career-profile:
     title: Career Profile
     summary: |
