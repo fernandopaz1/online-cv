@@ -63,13 +63,12 @@ education:
       university: Universidad de Buenos Aires
       time: 2012 - Actual
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Estudiante de los ultimos años de la carrera de ciencias físicas, con particular interes en 
+        simulaciones y física computacional. Esto me llevo a explorar en campos como machine learning, 
+        simulaciones de dinámica molecular, cálculo numérico, analisis y representación de datos. Entre mis
+        proyectos relacionados con física están:
 
-          - Bullet point
+          - Simulaciones de sistemas percolantes (<a href="https://drive.google.com/file/d/14sC-DtM6yabaU4ocAYrCsQF7A6bIFMm9/view?usp=sharing" target="_blank" rel="nofollow">Informe</a> - <a href="https://github.com/fernandopaz1/percolacion" target="_blank" rel="nofollow">Código</a>)
           - Bullet point 
 
 experiences:
